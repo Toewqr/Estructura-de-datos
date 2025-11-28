@@ -1,0 +1,30 @@
+C;9400;Río Gallegos;Santa Cruz
+C;5500;Mendoza;Mendoza
+C;4400;Salta;Salta
+C;8300;Neuquén;Neuquén
+C;4000;San Miguel de Tucumán;Tucumán
+C;7600;Mar del Plata;Buenos Aires
+C;3000;Santa Fe;Santa Fe
+C;5000;Córdoba;Córdoba
+C;1000;Buenos Aires;Ciudad Autónoma de Buenos Aires
+C;5300;La Rioja;La Rioja
+C;3100;Paraná;Entre Ríos
+C;8000;Bahía Blanca;Buenos Aires
+C;4600;San Salvador de Jujuy;Jujuy
+C;5600;San Rafael;Mendoza
+C;3300;Posadas;Misiones
+C;1900;La Plata;Buenos Aires
+C;8324;Cipolletti;Río Negro
+C;5700;San Luis;San Luis
+C;7000;Tandil;Buenos Aires
+C;3400;Corrientes;Corrientes
+C;4200;Santiago del Estero;Santiago del Estero
+C;9000;Comodoro Rivadavia;Chubut
+C;3600;Formosa;Formosa
+C;4700;Catamarca;Catamarca
+C;2900;San Nicolás;Buenos Aires
+C;2000;Rosario;Santa Fe
+C;3500;Resistencia;Chaco
+C;5400;San Juan;San Juan
+C;9410;Ushuaia;Tierra del Fuego
+C;8500;Viedma;Río Negro
