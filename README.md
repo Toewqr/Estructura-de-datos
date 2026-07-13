@@ -39,31 +39,5 @@ El proyecto fue desarrollado íntegramente en **Java** aplicando los principios 
 
 ## Arquitectura del Proyecto
 
-├── SistemaMudanza.java # Punto de entrada y menú principal
-├── ConsultaCiudad.java # ABM y consultas sobre ciudades
-├── ConsultaViajes.java # ABM y consultas sobre rutas/viajes
-├── ConsultaClientes.java # ABM y consultas sobre clientes
-├── arbol/ # Árbol AVL
-│ ├── ArbolAVL.java
-│ └── NodoAVL.java
-├── grafo/ # Grafo de ciudades y rutas
-│ ├── GrafoCiudades.java
-│ ├── NodoVert.java
-│ └── NodoAdy.java
-├── lineales/ # Estructuras lineales (Lista, Cola, Nodo)
-│ ├── Lista.java
-│ ├── Cola.java
-│ └── Nodo.java
-├── clasesComplemento/ # Entidades del dominio
-│ ├── Ciudad.java
-│ ├── Cliente.java
-│ ├── ClaveCliente.java
-│ ├── Pedido.java
-│ └── Logger.java
-└── sistema/ # Archivos de datos
-├── ciudades.txt
-├── clientes.txt
-├── rutas.txt
-└── solicitudes.txt
 
 
