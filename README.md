@@ -37,7 +37,6 @@ El proyecto fue desarrollado íntegramente en **Java** aplicando los principios 
   - Algoritmo de planificación de carga (simulación de espacio en camión).
 - **Modelado**: POO con clases cohesivas (`Ciudad`, `Cliente`, `Pedido`, `GrafoCiudades`, `ArbolAVL`, etc.).
 
-## Arquitectura del Proyecto
 
 
 
